@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Flook",
+    "slug": "Flook",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/flook-icon.png",
+    "userInterfaceStyle": "automatic",
+    
+    "splash": {
+      "image": "./assets/book-icon6.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+     
+    },
+    "backgroundColor": "#ffffff",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.phuocsanh.bookapp",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "versionCode": 1,
+      "useNextNotificationsApi": true,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/flook-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.phuocsanh.bookapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

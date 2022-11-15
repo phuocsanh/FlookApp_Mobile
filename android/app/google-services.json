@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763979821762",
+    "project_id": "tranquil-app-340815",
+    "storage_bucket": "tranquil-app-340815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763979821762:android:7c68be26963372a35b815b",
+        "android_client_info": {
+          "package_name": "com.phuocsanh.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763979821762-c19pj05sk6bees2nnibl95ffqfajskb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPvNi3hVA3YZTWTaPt311mIhts9Qi_Yio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763979821762-c19pj05sk6bees2nnibl95ffqfajskb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
